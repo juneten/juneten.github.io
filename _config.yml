@@ -7,7 +7,7 @@ description: "我真的受够了被屏蔽"
 keyword: "RPS, SLASH, 同人, 真人同人"
 url: "https://juneten.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/klovien/klovien.github.io.git" # you code repository
+github_repo: "https://github.com/juneten/juneten.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
