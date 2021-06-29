@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      ［超时空同居］[双陆]Triple & Camera
+title:      [超时空同居][双陆]Triple & Camera
 subtitle:   
 date:       2020-12-10
 author:     丁丑
