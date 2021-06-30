@@ -1,15 +1,14 @@
 ---
 layout:     post
-title:      [超时空同居]Triple & Camera
+title:      【超时空同居】【双陆】Triple & Camera
 subtitle:   
-date:       2020-12-10
+date:       2020-12-20
 author:     丁丑
-header-img: img/post-bg-recitewords.jpg
+header-img: img/the-first.png
 catalog: false
 tags:
     - 雷老师水仙
 ---
-
 陆鸣过了好一会儿才意识到，陆石屹已经放开了他，同时也从他体内退了出去。
 
 随即他意识到身下的床单经过一轮又一轮体液、润滑液、泪水还有汗水的浸润，已经湿得不像话，贴在热度未退的皮肤上，又凉又腻，仿佛某种恶心的冷血动物，在暗夜里对他纠缠不休。
